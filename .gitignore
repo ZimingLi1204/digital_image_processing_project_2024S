@@ -1,0 +1,11 @@
+ML_project
+/ML_project
+
+/data
+data
+
+__pycache__
+
+*.pth
+
+segment_anything/sam_vit_b.pth
