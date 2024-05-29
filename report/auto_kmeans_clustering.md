@@ -2,3 +2,8 @@
 
 ## 方法
 自动kmeans ， sam结果作为gt
+
+```
+python 
+
+```
